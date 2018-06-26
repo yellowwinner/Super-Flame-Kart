@@ -1,0 +1,23 @@
+welcome.mp3 "Welcome to Super Flame Kart"
+Title screen
+
+mode.mp3 "Choose a mode!"
+Select singleplayer, multiplayer or online
+
+character.mp3 "Choose your character!"
+Character Select
+
+grandprix.mp3 "Select your Grand Prix"
+Grand Prix select (Or random if you don't care)
+
+ready.mp3 "Are you ready?"
+Overview
+
+connecting.mp3 "Connecting to the internet!"
+Connecting to servers
+
+failed.mp3 "Connection failed"
+Can't connect to servers
+
+gameover.mp3 "Game Over"
+End of game
