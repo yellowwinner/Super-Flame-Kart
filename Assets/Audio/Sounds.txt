@@ -10,14 +10,35 @@ Character Select
 grandprix.mp3 "Select your Grand Prix"
 Grand Prix select (Or random if you don't care)
 
-ready.mp3 "Are you ready?"
-Overview
-
 connecting.mp3 "Connecting to the internet!"
 Connecting to servers
 
 failed.mp3 "Connection failed"
 Can't connect to servers
+
+ready.mp3 "Are you ready to play?"
+Overview
+
+second.mp3 "Second lap"
+Second lap
+
+third.mp3 "Third lap"
+Third lap
+
+fourth.mp3 "Fourth lap"
+Fourth lap
+
+final.mp3 "Final lap"
+Last lap
+
+bad.mp3 "You can do better than that!"
+Lesser four places 
+
+good.mp3 "Keep it up!"
+Upper four places
+
+finish.mp3 "Finish!"
+Round end
 
 gameover.mp3 "Game Over"
 End of game
